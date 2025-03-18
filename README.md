@@ -1,4 +1,4 @@
-# 🎯 Guide du Prompting en Intelligence Artificielle  
+#  Guide du Prompting en Intelligence Artificielle  
 
 ## 📖 Introduction  
 Le **prompting** est l’art de formuler des instructions précises pour interagir efficacement avec une intelligence artificielle (IA). Un **prompt** est une consigne donnée à l’IA afin d'obtenir une réponse pertinente et optimisée.  
@@ -60,4 +60,3 @@ L’objectif du prompting est d’améliorer :
 ## 📌 **Conclusion**  
 Le prompting est une compétence essentielle pour exploiter pleinement la puissance des IA comme ChatGPT. En améliorant la formulation des prompts, on obtient des résultats plus pertinents et efficaces. 🚀  
 
-⭐ **N’hésitez pas à contribuer et partager vos propres techniques de prompting !**  
